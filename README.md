@@ -12,6 +12,12 @@ The goal of this application is to provide a lightweight and easy-to-use solutio
 - View existing notes
 - Manage notes directly through a simple terminal interface
 
+## Future Improvements
+
+- Add search functionality
+- Implement categories or tags for notes
+- Create a graphical user interface (GUI)
+
 ---
 
 Created with passion by **Tudor**
